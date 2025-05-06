@@ -2,6 +2,11 @@ MIT License
 
 Copyright (c) 2025 Luis Tedeschi
 
+DISCLAIMER: The ATAUC software mentioned in the associated publication is
+proprietary and **not** included under this license. This MIT License applies
+only to the data files and R scripts (e.g., `getauc.R`, `Data.xlsx`)
+included in this repository.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights

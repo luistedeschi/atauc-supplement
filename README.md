@@ -11,7 +11,6 @@ The ATAUC (Area and Time Above and Under the Curve) software is a proprietary to
 
 - Example datasets (`data.xlsx`)
 - The `getauc` R function used to calculate AUC, AAC, TUC, and TAC
-- A sample R script demonstrating how to apply the `getauc` function
 
 These materials are sufficient to **reproduce the statistical analyses and visualizations** reported in the manuscript.
 
@@ -19,7 +18,6 @@ These materials are sufficient to **reproduce the statistical analyses and visua
 
 - `Data.xlsx`: Excel file used in the manuscript, with example data (see Figure 1).
 - `getauc.R`: R function to calculate area and time metrics with spline interpolation.
-- `Example_AUC_TUC.R`: A walkthrough script to load data, run `getauc`, and generate results.
 
 ## How to Use
 
